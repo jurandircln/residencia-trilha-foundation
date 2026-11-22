@@ -1,4 +1,5 @@
 # Workflow oficial de deploy do backend.
+# Configure as Repository Variables indicadas no plano da Sprint 4.
 name: Backend
 
 on:
