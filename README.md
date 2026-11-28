@@ -19,7 +19,6 @@ residencia-trilha-foundation/
     │   ├── baselines/
     │   └── components/
     └── terraform/                     # IaC criada durante a trilha
-        ├── foundation/
         └── stacks/
             ├── 00-remote-backend-stack/ # base do bucket de state
             └── 01-frontend-stack/      # base do frontend com CDN e domínio
